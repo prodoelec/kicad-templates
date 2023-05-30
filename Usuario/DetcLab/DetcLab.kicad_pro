@@ -423,7 +423,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "prodoelec.kicad_pro",
+    "filename": "DetcLab.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -462,7 +462,7 @@
       "step": "",
       "vrml": ""
     },
-    "page_layout_descr_file": "${KICAD_PTEMPLATES}/A4_ISO5457-1999_ISO7200-2004_EN_PRODOELEC.kicad_wks"
+    "page_layout_descr_file": "${KICAD_PTEMPLATES}/A4_DetcLab.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -496,7 +496,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "${KICAD_PTEMPLATES}/A4_ISO5457-1999_ISO7200-2004_EN_PRODOELEC.kicad_wks",
+    "page_layout_descr_file": "${KICAD_PTEMPLATES}/A4_DetcLab.kicad_wks",
     "plot_directory": "",
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
